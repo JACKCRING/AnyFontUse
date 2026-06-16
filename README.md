@@ -1,4 +1,4 @@
-<img src="PressKits/logoType.png" alt="AnyFontUse" width="480" />
+<img src="PressKits/logo.png" alt="AnyFontUse" hight="256" />
 
 **English** · [简体中文](README.zh-CN.md)
 
