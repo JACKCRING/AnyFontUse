@@ -1,5 +1,6 @@
-<img src="PressKits/logo.png" alt="AnyFontUse" hight="256" />
-
+<p align="left">
+  <img src="PressKits/logo.png" alt="AnyFontUse" width="480" />
+</p>
 [English](README.md) · **简体中文**
 
 一个轻量的 SwiftUI 字体管理库：把项目里导入的任何字体文件，用一行修饰符直接渲染。
