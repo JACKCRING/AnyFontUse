@@ -1,6 +1,6 @@
 <!-- <img src="PressKits/logo.png" alt="AnyFontUse" hight="256" /> -->
 <p align="left">
-  <img src="PressKits/logo.png" alt="AnyFontUse" hight="256" />
+  <img src="PressKits/logos.png" alt="AnyFontUse" hight="256" />
 </p>
 
 **English** · [简体中文](README.zh-CN.md)

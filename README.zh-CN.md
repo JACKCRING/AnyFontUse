@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="PressKits/logo.png" alt="AnyFontUse" width="480" />
+  <img src="PressKits/logos.png" alt="AnyFontUse" width="480" />
 </p>
 [English](README.md) · **简体中文**
 
