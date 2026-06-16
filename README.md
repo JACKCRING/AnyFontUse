@@ -1,5 +1,5 @@
 <!-- <img src="PressKits/logo.png" alt="AnyFontUse" hight="256" /> -->
-<p align="left">
+<p align="center">
   <img src="PressKits/logo.png" alt="AnyFontUse" hight="256" />
 </p>
 
